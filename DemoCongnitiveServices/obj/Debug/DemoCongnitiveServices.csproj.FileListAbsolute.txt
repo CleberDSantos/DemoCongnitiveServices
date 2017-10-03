@@ -1,0 +1,16 @@
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\DemoCongnitiveServices.exe.config
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\DemoCongnitiveServices.exe
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\DemoCongnitiveServices.pdb
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\Microsoft.ProjectOxford.Common.dll
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\Microsoft.ProjectOxford.Face.dll
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\Newtonsoft.Json.dll
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\System.Net.Http.Extensions.dll
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\System.Net.Http.Primitives.dll
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\Newtonsoft.Json.xml
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\System.Net.Http.Extensions.xml
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\bin\Debug\System.Net.Http.Primitives.xml
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\obj\Debug\DemoCongnitiveServices.csproj.App.config
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\obj\Debug\DemoCongnitiveServices.csproj.CoreCompileInputs.cache
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\obj\Debug\DemoCongnitiveServices.exe
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\obj\Debug\DemoCongnitiveServices.pdb
+M:\Onedrive\Projetos\Detector Face beta\Azure\DemoCongnitiveServices\DemoCongnitiveServices\obj\Debug\DemoCongnitiveServices.csprojResolveAssemblyReference.cache
